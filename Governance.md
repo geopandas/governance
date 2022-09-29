@@ -131,15 +131,16 @@ for a more detailed discussion.
 Project Maintainers are Project Contributors that have shown that they are
 dedicated to the ongoing development of the project through active engagement
 with the Community and facilitation of everyday Project activities. Maintainers
-are granted write access to one or more repositories within The Project, provide
-feedback on Github Issues and Discussions, review and merge Pull Requests,
-participate in monthly Community Meetings, vote on Steering Council members, and
-may be actively involved in setting the overall direction of the project.
-Project Maintainers are nominated by other Project Maintainers by sending a
-notification to the Project Maintainer's private mailing list. Other Project
-Maintainers will have a period of at least two weeks in which to veto a
-nomination; otherwise, the nominee shall become a Project Maintainer. No voting
-is necessary for selecting Project Maintainers.
+are typically granted write access to one or more repositories within The
+Project, provide feedback on Github Issues and Discussions, review and merge
+Pull Requests, participate in monthly Community Meetings (which are open to all
+community members), vote on Steering Council members, and may be actively
+involved in setting the overall direction of the project. Project Maintainers
+are nominated by other Project Maintainers by sending a notification to the
+Project Maintainer's private mailing list. Other Project Maintainers will have a
+period of at least two weeks in which to veto a nomination; otherwise, the
+nominee shall become a Project Maintainer. No voting is necessary for selecting
+Project Maintainers.
 
 Project Maintainers who have not actively contributed to The Project for a
 period of 12 months will be asked if they wish to resign their write access and
@@ -148,6 +149,9 @@ voting rights until they become active again.
 Project Maintainers may have their write access and voting rights revoked by the
 Steering Council if they are deemed to be actively harmful to The Project's
 well-being, and attempts at communication and conflict resolution have failed.
+Depending on the nature of the conflict, if any, the Code of Conduct
+Subcommittee may be involved in conflict resolution or specifically recommend
+revoking a Maintainer's write access and voting rights.
 
 Current and retired Project Maintainers will be
 [listed by subproject](./membership/Maintainers.md).
@@ -290,17 +294,13 @@ warrant careful consideration, except in the case of typos or minor language
 errors.
 
 Any member of the Community may suggest a change to these Governance documents
-by opening a GitHub Issue on the GeoPandas Governance repository. The Steering
-Council may elect not to pursue changes outlined in the issue and may close the
-issue with a brief explanation of that choice.
+by opening a GitHub Issue or Pull Request on the GeoPandas Governance
+repository. The Steering Council may elect not to pursue changes outlined in the
+Issue or Pull Request and may close the issue with a brief explanation of that
+choice.
 
-A member of the Steering Council may then formulate a GitHub Pull Request with
-specific changes to these Governance documents. The Steering Council may solicit
-input from the person that initially raised the issue and/or other members of
-the Community. Only Steering Council members may open a Pull Request on this
-repository. Pull Requests by any other Contributor (except in the case of very
-minor typo or language fixes) may be immediately closed by the Steering Council
-without further explanation.
+The Steering Council may solicit input from the person that initially raised the
+Issue or Pull Request and/or other members of the Community.
 
 Members of the Steering Council then approve or veto the final version of the
 Pull Request. Once approved, the Pull Request will be merged and the updated
