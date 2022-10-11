@@ -63,8 +63,8 @@ with any questions.
 4. **Be respectful**. Not all of us will agree all the time, but disagreement is
    no excuse for poor behavior or poor manners. We might all experience some
    frustration now and then, but we cannot allow that frustration to turn into a
-   personal attack. It’s important to remember that a community where people
-   feel uncomfortable or threatened is not a productive one.
+   personal attack. A community where people feel uncomfortable or threatened is
+   not a productive one.
 
 5. **Be careful in the words that you choose**. Be kind to others. Do not insult
    or put down other community members. Harassment and other exclusionary
@@ -86,7 +86,7 @@ with any questions.
    expectations is preferable to demands for another person's time.
 
 7. **When we disagree, try to understand why**. Disagreements, both social and
-   technical, happen all the time and the GeoPandas Project is no exception. Try to
+   technical, happen all the time, and the GeoPandas Project is no exception. Try to
    understand where others are coming from, as seeing a question from their
    viewpoint may help find a new path forward. And don’t forget that it is
    human to err: blaming each other doesn’t get us anywhere, while we can learn

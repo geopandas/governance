@@ -21,15 +21,17 @@ The primary goal of The Project is to develop support for geospatial data in
 is released under the BSD (or similar) open source license, developed openly,
 and hosted on public GitHub repositories under the
 [GeoPandas GitHub organization](https://github.com/geopandas).
-In addition to the main [GeoPandas repository](https://github.com/geopandas/geopandas),
-the GeoPandas project includes subprojects focused on geospatial I/O, geospatial
-data exploration and visualization, and parallelized geospatial computations.
+In addition to the main
+[GeoPandas repository](https://github.com/geopandas/geopandas),
+the GeoPandas project includes subprojects focused on geospatial input/output,
+geospatial data exploration and visualization, and parallelized geospatial
+computations.
 
 The Project is developed by a team of distributed Contributors. Contributors are
 individuals who have contributed code, participated in GitHub Issues, Pull
 Requests, and Discussions, or provided community help/building, education,
 outreach, and other activities that benefit the Project and the Community.
-Anyone can be a Contributor, and contributors can be affiliated with any legal
+Anyone can be a Contributor, and Contributors can be affiliated with any legal
 entity or none.
 
 The Project Community consists of all Contributors and Users of The Project.
@@ -116,7 +118,7 @@ solution that everyone can live with.
 If all proposals for resolving some issue are vetoed, then the status quo wins
 by default. In the worst case, if a Contributor is genuinely misusing their veto
 in an obstructive fashion to the detriment of the project, then they can be
-ejected from the project by consensus of the Steering Council – see below.
+ejected from the project by consensus of the Steering Council.
 
 For more information about the overall approach we use to achieve consensus, we
 highly recommend that all Contributors additionally read
@@ -240,8 +242,8 @@ members, and their vacancy will be filled in the process outlined above.
 
 The Council reserves the right to eject current Members if they are deemed to be
 actively harmful to The Project's well-being, and attempts at communication and
-conflict resolution have failed. This requires the consensus of the remaining
-Members.
+conflict resolution have failed. This requires the consensus (as described above)
+of the remaining Members.
 
 Current and retired Steering Council Members will be listed on
 [Steering Council Membership document](./membership/SteeringCouncil.md).
