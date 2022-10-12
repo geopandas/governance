@@ -1,4 +1,11 @@
 # GeoPandas Project Steering Council
 
-The membership of the GeoPandas Steering Council has not yet been formally
-established. The list of members will be posted here once available.
+-   Joris Van den Bossche
+-   Martin Fleischmann
+-   Matt Richards
+-   Brendan Ward
+
+(last updated: October 12, 2022)
+
+See Project [Governance](../Governance.md#steering-council) for more information
+about the Steering Council.
