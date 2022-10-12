@@ -78,8 +78,8 @@ with any questions.
     - Personal insults, especially those using racist, sexist, and xenophobic terms
     - Unwelcome sexual attention
     - Advocating for, or encouraging, any of the above behavior
-    - Repeated harassment of others. In general, if someone asks you to stop,
-      then stop
+
+    **In general, if someone asks you to stop, then stop.**
 
 6. **Moderate your expectations**. Please respect that community members choose
    how they spend their time in the project. A thoughtful question about your
