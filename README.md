@@ -12,7 +12,6 @@ project and subprojects.
 
 -   [Steering Council](./membership/SteeringCouncil.md)
 -   [Project Maintainers](./membership/Maintainers.md)
--   [Code of Conduct Committee](./membership/CodeOfConductCommittee.md)
 
 For more information about the GeoPandas project community, including recurring
 meeting schedules and other ways to engage with the project, please see the
