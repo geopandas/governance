@@ -48,7 +48,7 @@ archive of meeting notes are available within the [GeoPandas Community
 repository](https://github.com/geopandas/community).
 
 Participation in The Project follows the
-[GeoPandas Project Code of Conduct](./CodeOfConduct.md),
+[NumFOCUS Code of Conduct](./CodeOfConduct.md),
 which ensures that members of the Community treat each other with respect,
 provide an environment that welcomes participation, and provides a mechanism for
 reporting and enforcing violations.
@@ -151,8 +151,8 @@ voting rights until they become active again.
 Project Maintainers may have their write access and voting rights revoked by the
 Steering Council if they are deemed to be actively harmful to The Project's
 well-being, and attempts at communication and conflict resolution have failed.
-Depending on the nature of the conflict, if any, the Code of Conduct
-Subcommittee may be involved in conflict resolution or specifically recommend
+Depending on the nature of the conflict, if any, the NumFOCUS Code of Conduct
+Working Group may be involved in conflict resolution or specifically recommend
 revoking a Maintainer's write access and voting rights.
 
 Current and retired Project Maintainers will be
@@ -281,13 +281,6 @@ as appropriate. Like the Council as a whole, subcommittees should conduct their
 business in an open and public manner unless privacy is specifically called for.
 Private subcommittee communications should happen on the main private mailing
 list of the Council unless specifically called for.
-
-The Project shall have a Code of Conduct Subcommittee responsible for
-maintaining the [GeoPandas Code of Conduct](CodeOfConduct.md), responding to
-reports of Code of Conduct Violations, and enforcing Code of Conduct Violations.
-This subcommittee shall not be entirely composed of Steering Council Members.
-The members of the Code of Conduct Subcommittee shall be posted on the
-[Code of Conduct Subcommittee Membership document](membership/CodeOfConductSubcommittee.md).
 
 ## Changing the Governance Documents
 
